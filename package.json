@@ -26,6 +26,6 @@
     "eslint-plugin-import": "^2.32.0",
     "eslint-plugin-n": "^16.6.2",
     "eslint-plugin-promise": "^6.6.0",
-    "prettier": "^3.9.6"
+    "prettier": "^3.9.10"
   }
 }
